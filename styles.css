@@ -258,4 +258,102 @@ header{
 }
 /* Beige-box */
 
+/* Team-box */
+.team-section{
+    padding: 155px 75px 215px;
+}
+.team-box-wrapper{
+    max-width: 1290px;
+    height: 610px;
+    padding-top: 55px;
+    display: flex;
+    gap: 30px;
+}
+.about-specialists{
+    max-width: 440px;
+    height: 610px;
+}
+.team-section h3{
+    font-family: 'Graphik LCG';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.about-specialists img{
+    margin-bottom: 55px;
+    height: 200px;
+}
+.about-specialists h5{
+    font-family: 'Graphik LCG';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+    margin-bottom: 35px;
+}
+.about-specialists p{
+    font-family: 'Graphik LCG';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    margin-bottom: 25px;
+    max-width: 409px;
 
+}
+.about-specialists a{
+    font-family: 'Graphik LCG';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+/* Team-box */
+
+/* Blue-box */
+.blue-box{
+    height: 470px;
+    max-width: 1440px;
+    background: #C9E8F2;
+    padding: 0px 75px 105px;
+    display: flex;
+    gap: 60px;
+}
+.blue-box-content{
+    max-width: 895px;
+    height: 275px;
+    padding-top: 65px;
+}
+.blue-box-content p{
+    font-family: 'Graphik LCG';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+.blue-box-content p.extra-small{ 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+    margin-bottom: 5px;
+}
+.blue-box img.ed-cooper{
+    width: 310px;
+    height: 310px;
+    margin-top: 55px;
+}
+/* Blue-box */
+
+/* Brown box */
